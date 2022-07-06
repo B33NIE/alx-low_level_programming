@@ -1,1 +1,1 @@
-Task 0. _putchar.c
+Task 0. _putchar
