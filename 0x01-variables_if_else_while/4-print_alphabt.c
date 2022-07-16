@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - program that prints the alphabet in lowercase, followed by a new line.
  *
- * Return: returns 0 when everything works fine
+ * Return 0
  *
 */
 
@@ -15,9 +15,9 @@ int main(void)
 		{
 			if (n != 101 && n != 113)
 			{
-				putchar(n);
+				putchar (n);
 			}
 		}
-		putchar (10)
-return (0)
+		putchar (10);
+return (0);
 }
