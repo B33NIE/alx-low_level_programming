@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * Description: rogram that prints the lowercase alphabet in reverse, followed by a new line.
+ * Description: alphabet in lowercase and reverse
  *
  * Return: 0
 */
