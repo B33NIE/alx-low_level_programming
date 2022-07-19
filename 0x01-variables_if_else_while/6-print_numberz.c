@@ -3,6 +3,8 @@
 /*
  * main - Prints all single digits of base 10 followed by new line
  *
+ * Description: Numberz
+ *
  * Return: returns 0
 */
 int main(void)
